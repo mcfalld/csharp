@@ -1,0 +1,22 @@
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Form1.resources
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+M:\USB_Storage\College\Fall Semester 2017\OsuIT\Graphical User Interface\Murach C# 2015\Exercise starts\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Form1.resources
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\mcfal\Desktop\Chapter 18\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache

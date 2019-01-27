@@ -1,0 +1,10 @@
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+\\192.168.1.11\Users\mcfal\Desktop\osu\OsuIT\Graphical User Interface\Chapter 12\12-1 complete\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
